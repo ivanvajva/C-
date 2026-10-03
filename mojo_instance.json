@@ -1,0 +1,10 @@
+{
+  "argsMode": 0,
+  "controlLayout": "./default.json",
+  "renderer": "vulkan_zink",
+  "selectedRuntime": "Internal-25",
+  "sharedData": true,
+  "icon": "default",
+  "name": "последний реализ",
+  "versionId": "26.3"
+}
